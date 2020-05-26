@@ -1,0 +1,64 @@
+.navbarHeader {
+  background-color: #1a5fa1;
+  padding: 0.5rem;
+  text-shadow: 0 0 3px #000;
+}
+
+.myLogo {
+  width: 5rem;
+}
+
+body {
+  background-color: #2f4f4f;
+  padding: 0.4rem;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0rem 1rem;
+}
+
+.fa-sign-in,
+.fa-user-plus,
+.fa-cog,
+.fa-info-circle,
+.fa-home,
+.fa-react,
+.fa-python,
+.fa-node-js {
+  margin: 0.4rem;
+}
+
+footer {
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  font-size: 0.8rem;
+  padding: 2rem;
+}
+
+hr.light {
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+  margin-top: 0.8rem;
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+}
+
+footer a {
+  color: #d5d5d5;
+  font-size: 0.8rem;
+}
+
+hr.light-100 {
+  border-top: 1px solid #d5d5d5;
+  width: 100%;
+
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+}
+
+.bgnavbar {
+  background-color: #1a5fa1;
+  z-index: 1;
+}
